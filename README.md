@@ -1,53 +1,22 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 08/16/2022
+tags: 3DPrinting, Outdoors
+description: Shoulder strap mount for a DeWalt cordless weed whacker
+slug: dewalt-weed-wacker-strap-mount
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# DeWalt Weed Whacker Strap Mount
+Shoulder strap mount for a DeWalt cordless weed whacker
 
 ## Table of Contents
-- [Title](#title)
+- [DeWalt Weed Whacker Strap Mount](#dewalt-weed-whacker-strap-mount)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
-  - [Sources](#sources)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+This shoulder strap is designed to accomodate a DeWalt cordless wheed whacker, but would likely work with any standard size weed wheed whacker or edge trimmer. The two halves of the clamp attach with M5 hardware (be careful not to overtighten and strip the plastic threads). The eyelet is a 1/4-20 stainless steel hangar bolt. I recommend loosely attaching the mount, putting on the strap and adjusting it to comfort before fully tightening.
 
 ## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Fusion 360
